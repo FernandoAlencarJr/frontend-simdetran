@@ -1,0 +1,7 @@
+{
+  "name": "frontend-simdetran",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
